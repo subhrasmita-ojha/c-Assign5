@@ -1,0 +1,6 @@
+C:\Users\subhrasmita ojha\source\repos\PMDictionary\bin\Debug\PMDictionary.exe.config
+C:\Users\subhrasmita ojha\source\repos\PMDictionary\bin\Debug\PMDictionary.exe
+C:\Users\subhrasmita ojha\source\repos\PMDictionary\bin\Debug\PMDictionary.pdb
+C:\Users\subhrasmita ojha\source\repos\PMDictionary\obj\Debug\PMDictionary.csprojAssemblyReference.cache
+C:\Users\subhrasmita ojha\source\repos\PMDictionary\obj\Debug\PMDictionary.exe
+C:\Users\subhrasmita ojha\source\repos\PMDictionary\obj\Debug\PMDictionary.pdb

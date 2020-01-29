@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMDictionary", "PMDictionary.csproj", "{B8FEBAAC-0769-4FD7-8D13-FE0D7A464720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FEBAAC-0769-4FD7-8D13-FE0D7A464720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FEBAAC-0769-4FD7-8D13-FE0D7A464720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FEBAAC-0769-4FD7-8D13-FE0D7A464720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FEBAAC-0769-4FD7-8D13-FE0D7A464720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF7494C-0E71-49B6-B306-22FFE1F7E91B}
+	EndGlobalSection
+EndGlobal
